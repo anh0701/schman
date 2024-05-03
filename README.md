@@ -1,0 +1,2 @@
+# schman
+school management
